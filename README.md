@@ -31,4 +31,3 @@ This project combines **HTML, CSS, JavaScript, and PHP** with **MySQL** for data
 
 ---
 
-<h2>📂 Project Structure</h2>
